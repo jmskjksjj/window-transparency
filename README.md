@@ -4,6 +4,14 @@
 
 ![스크린샷](docs/screenshot.png)
 
+## 데모
+
+실제로 창을 투명하게 만드는 모습입니다.
+
+<video src="https://github.com/jmskjksjj/window-transparency/raw/main/docs/demo.mp4" controls>
+  영상이 안 보이면 여기서 받으세요: <a href="docs/demo.mp4">demo.mp4</a>
+</video>
+
 ## 뭐 하는 프로그램인가
 
 과녁 아이콘을 마우스로 끌어다 투명하게 만들고 싶은 창 위에 놓으면 그 창이 반투명해집니다. 슬라이더로 투명도를 조절하고요. 영상 보면서 그 위에 메모창을 띄워두거나, 자료를 보면서 뒤에 다른 창을 비쳐 보고 싶을 때 쓸 만합니다.
