@@ -8,9 +8,9 @@
 
 실제로 창을 투명하게 만드는 모습입니다.
 
-<video src="https://github.com/jmskjksjj/window-transparency/raw/main/docs/demo.mp4" controls>
-  영상이 안 보이면 여기서 받으세요: <a href="docs/demo.mp4">demo.mp4</a>
-</video>
+![데모](docs/demo.gif)
+
+더 선명한 원본 영상은 [demo.mp4](docs/demo.mp4) 에서 받아 볼 수 있습니다.
 
 ## 뭐 하는 프로그램인가
 
