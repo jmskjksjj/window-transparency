@@ -12,7 +12,7 @@
 - 📦 **단일 exe**, 설치 불필요 (Windows 10/11 내장 기능만 사용)
 
 ## ⬇️ 다운로드 & 실행
-1. [Releases](../../releases) 에서 `창 투명도 조절기.exe` (또는 zip) 다운로드
+1. [Releases](../../releases) 에서 `WindowTransparencyAdjuster-1.0.0.exe` (또는 `.zip`) 다운로드
 2. 더블클릭으로 실행
 3. 처음 실행 시 SmartScreen 경고가 뜨면 **추가 정보 → 실행** (서명 없는 개인 빌드라 정상입니다)
 
