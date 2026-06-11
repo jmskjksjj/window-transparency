@@ -1,0 +1,7 @@
+# 빌드 산출물 (GitHub Releases 로 배포)
+*.exe
+*.zip
+
+# OS / 편집기
+Thumbs.db
+.DS_Store
